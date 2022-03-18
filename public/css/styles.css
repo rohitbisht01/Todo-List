@@ -1,6 +1,5 @@
 html {
     background-color: #e4e9fd;
-    background-image: -webkit-linear-gradient(65deg, #190e2c 50%, #e4e9fd 50%);
     min-height: 1000px;
     font-family: "helvetica neue";
 }
@@ -19,7 +18,7 @@ h1 {
 }
 
 #heading {
-    background-color: #a683e3;
+    background-color: #a82d8e;
     text-align: center;
 }
 
@@ -61,7 +60,7 @@ button {
     width: 50px;
     border-radius: 50%;
     border-color: transparent;
-    background-color: #a683e3;
+    background-color: #a82d8e;
     color: #fff;
     font-size: 30px;
     padding-bottom: 6px;
@@ -81,7 +80,7 @@ input[type="text"] {
 
 input[type="text"]:focus {
     outline: none;
-    box-shadow: inset 0 -3px 0 0 #a683e3;
+    box-shadow: inset 0 -3px 0 0 #521b41;
 }
 
 ::placeholder {
@@ -91,6 +90,6 @@ input[type="text"]:focus {
 
 footer {
     color: white;
-    color: rgba(0, 0, 0, 0.5);
+    color: rgba(10, 0, 0, 0.5);
     text-align: center;
 }
